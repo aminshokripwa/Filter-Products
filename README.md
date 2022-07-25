@@ -2,14 +2,6 @@
 
 Filter products added with Excel with Laravel
 
-<p align="center">
-- - - - -
-
-![Laravel filter products photos screenshot](https://www.foragma.com/aminshokripwa/Laravel-Vue-And-jQuery-Gallery.png)
-
-- - - - -
-</p>
-
 ## How to use
 
 - Clone the repository with __git clone__
