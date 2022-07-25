@@ -13,6 +13,7 @@ Filter products added with Excel with Laravel
 - Run __npm run dev__
 - Run __php artisan serve__
 - That's it, load your main URL
+- login as admin and upload servers_filters_assignment.xlsx
 
 ## Short stats of the dataset
 
