@@ -1,6 +1,6 @@
 # Filter Products With Laravel
 
-Filter products imported with Excel by Laravel
+Filter products imported from Excel to Laravel
 
 ## How to use
 
