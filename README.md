@@ -1,4 +1,4 @@
-# Filter Products With Laravel
+# Filter Products By Laravel
 
 Filter products imported from Excel to Laravel
 
