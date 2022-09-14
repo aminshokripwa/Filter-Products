@@ -1,7 +1,7 @@
 {
     "name": "filter/products",
     "type": "project",
-    "description": "filter roducts",
+    "description": "filter products",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
