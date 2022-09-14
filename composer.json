@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "filter/products",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "filter roducts",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
