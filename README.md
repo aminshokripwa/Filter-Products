@@ -2,6 +2,10 @@
 
 Filter products imported from Excel to Laravel
 
+Ensure you create directory in your directory.
+
+`git clone https://github.com/aminshokripwa/Filter-Products.git`
+
 ## How to use
 
 - Clone the repository with __git clone__
