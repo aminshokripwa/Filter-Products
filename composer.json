@@ -2,8 +2,13 @@
     "name": "filter/products",
     "type": "project",
     "description": "filter products",
-    "keywords": ["framework", "laravel"],
+    "keywords": ["filter", "products", "filter products"],
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aminshokripwa/Filter-Products.git"
+    },
+	"author": "aminshokripwa",
     "require": {
         "php": "^7.3|^8.0",
         "fruitcake/laravel-cors": "^2.0",
